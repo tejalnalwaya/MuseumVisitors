@@ -3,6 +3,11 @@
 
     API used from LA city: https://data.lacity.org/resource/trxm-jn3c.json
 
+
+## Installation Steps
+    1. npm i
+    2. npm start
+
 # Folder structure
 
     .
